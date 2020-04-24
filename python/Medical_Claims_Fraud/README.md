@@ -1,13 +1,10 @@
-# Tutorial - Predicting COVID-19 at US County level
+# Tutorial - Predicting Fraud Medical claims
 
-This is a Python Notebook accompanying a tutorial in DataRobot Community.
-The tutorial can be found at: https://community.datarobot.com/t5/resources/predicting-covid-19-at-the-county-level/ta-p/2863
+This is a Python Notebook showing you how you can use DataRobot to develop a medical fraud claims use case.
 
 ## Usage
 
-Open `Covid_blog.ipynb`, follow the steps.
-
-You can also review dataset we used along in the notebook - `trainDatawithAirports.csv`.
+Open `Medical_Claims_Fraud_Notebook.ipynb` and read through the code. In this implemmentation we are connecting with a Microsoft SQL Server Database to retrieve the data for training.
 
 
 ## Development and Contributing
