@@ -1,10 +1,10 @@
 # Tutorial - Predicting Fraud Medical claims
 
-This is a Python Notebook showing you how you can use DataRobot to develop a medical fraud claims use case.
+This is a Python Notebook showcasing you how you can use DataRobot to develop a medical fraud claims use case.
 
 ## Usage
 
-Open `Medical_Claims_Fraud_Notebook.ipynb` and read through the code. In this implemmentation we are connecting with a Microsoft SQL Server Database to retrieve the data for training.
+Open `Medical_Claims_Fraud_Notebook.ipynb` and read through the code. In this implemmentation we are connecting with a Microsoft SQL server database to retrieve the data for training.
 
 
 ## Development and Contributing
