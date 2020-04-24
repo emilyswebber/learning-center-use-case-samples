@@ -6,6 +6,7 @@ Guidelines for developing and contributing to this project.
 
 - [Emily Webber](https://github.com/emilyswebber)
 - [Thodoris Petropoulos](https://github.com/TheoPetropoulos)
+- [Andrew Kruchko](https://github.com/akruchko)
 
 ## Opening new issues
 
