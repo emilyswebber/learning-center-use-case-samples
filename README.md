@@ -6,7 +6,9 @@ Each use-case directory contains instructions for its own use.
 **Python**
 
 Medical Claims Fraud
+
 Lead Scoring
+
 Predicting COVID-19 at the county level
 
 **R** 
